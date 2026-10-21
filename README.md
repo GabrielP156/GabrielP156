@@ -33,16 +33,14 @@ SQL Server · Azure DevOps · Azure Service Bus · Scrum
 
 <div align="center">
 
+<a href="https://github.com/GabrielP156/Backend-Springboot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielP156&repo=Backend-Springboot&hide_border=true&bg_color=16233B&title_color=7FD1C7&text_color=E8EDF5&icon_color=1F9E8F" /></a>
 <a href="https://github.com/GabrielP156/Proyecto-WEB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielP156&repo=Proyecto-WEB&hide_border=true&bg_color=16233B&title_color=7FD1C7&text_color=E8EDF5&icon_color=1F9E8F" /></a>
 <a href="https://github.com/GabrielP156/MiniProyecto-AmbienteWebI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielP156&repo=MiniProyecto-AmbienteWebI&hide_border=true&bg_color=16233B&title_color=7FD1C7&text_color=E8EDF5&icon_color=1F9E8F" /></a>
 
 </div>
 
-- **Zona de Ataque**: sistema web de citas con React, Vite y Tailwind. [Ver demo](https://gabrielp156.github.io/Proyecto-WEB/)
-- **Proyecto Notas**: gestión de tareas y notas con HTML, CSS y JavaScript. [Ver demo](https://gabrielp156.github.io/MiniProyecto-AmbienteWebI/)
-- **Microservicios de créditos**: seis servicios con API Gateway, OAuth2/JWT y Azure Service Bus.
-- **Sistema de reservas de laboratorios**: API REST con Spring Boot, JWT y pruebas con JUnit y Mockito.
+- **[Sistema de reservas de laboratorios](https://github.com/GabrielP156/Backend-Springboot)**: API REST con Spring Boot, JWT y pruebas con JUnit y Mockito.
+- **[Zona de Ataque](https://github.com/GabrielP156/Proyecto-WEB)**: sistema web de citas con React, Vite y Tailwind. [Ver demo](https://gabrielp156.github.io/Proyecto-WEB/)
+- **[Proyecto Notas](https://github.com/GabrielP156/MiniProyecto-AmbienteWebI)**: gestión de tareas y notas con HTML, CSS y JavaScript. [Ver demo](https://gabrielp156.github.io/MiniProyecto-AmbienteWebI/)
+- **Microservicios de créditos**: seis servicios con API Gateway, OAuth2/JWT y Azure Service Bus. *(próximamente)*
 
-<!-- Cuando subas los otros dos repos, pon su tarjeta así (cambia NOMBRE-DEL-REPO) y enlaza los puntos de arriba:
-<a href="https://github.com/GabrielP156/NOMBRE-DEL-REPO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielP156&repo=NOMBRE-DEL-REPO&hide_border=true&bg_color=16233B&title_color=7FD1C7&text_color=E8EDF5&icon_color=1F9E8F" /></a>
--->
