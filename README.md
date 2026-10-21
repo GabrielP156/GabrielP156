@@ -28,16 +28,6 @@ SQL Server · Azure DevOps · Azure Service Bus · Scrum
 
 ---
 
-### 📊 Estadísticas
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielP156&show_icons=true&hide_border=true&bg_color=16233B&title_color=7FD1C7&text_color=E8EDF5&icon_color=1F9E8F" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielP156&layout=compact&hide_border=true&bg_color=16233B&title_color=7FD1C7&text_color=E8EDF5" />
-
-</div>
-
----
 
 ### 🚀 Proyectos
 
