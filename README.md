@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy Darwin 👋
 
-<!--
-**GabrielP156/GabrielP156** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desarrollador Full Stack** · Estudiante de Ingeniería en Desarrollo de Software (UTN) · Costa Rica
 
-Here are some ideas to get you started:
+Construyo APIs con Java y Spring Boot y interfaces con React. Busco mi primera oportunidad profesional en desarrollo de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologías
+
+![Tecnologías](https://skillicons.dev/icons?i=java,spring,react,js,tailwind,html,css,postgres,mysql,docker,azure,git,github,postman)
+
+SQL Server · Azure DevOps · Azure Service Bus · Scrum
+
+### Proyectos destacados
+
+- **[Microservicios de créditos](enlace)**: seis servicios con API Gateway, OAuth2/JWT y Azure Service Bus.
+- **[Sistema de reservas de laboratorios](enlace)**: API REST con Spring Boot, JWT y pruebas con JUnit y Mockito.
+- **[Zona de Ataque](enlace)**: sistema web de citas con React, Vite y Tailwind.
+
+### Contacto
+
+[LinkedIn](enlace) · darwinuaim@gmail.com
