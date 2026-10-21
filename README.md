@@ -2,7 +2,7 @@
 
 **Desarrollador Full Stack** · Estudiante de Ingeniería en Desarrollo de Software (UTN) · Costa Rica
 
-Construyo APIs con Java y Spring Boot y interfaces con React. Busco mi primera oportunidad profesional en desarrollo de software.
+Construyo APIs con Java y Spring Boot y interfaces con React. 
 
 ### Tecnologías
 
