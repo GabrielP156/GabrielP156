@@ -7,8 +7,8 @@
 <br>
 
 Estudiante de **Ingeniería en Desarrollo de Software (UTN)** · Costa Rica 🇨🇷
-Construyo APIs con Java y Spring Boot e interfaces con React.
-Pasantía en **AND Technology**. Busco mi primera oportunidad profesional.
+Construyo APIs con Java y Spring Boot e interfaces con React y javaScript,Css vanilla.
+
 
 <a href="mailto:darwinuaim@gmail.com"><img src="https://img.shields.io/badge/Correo-darwinuaim%40gmail.com-1F9E8F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
