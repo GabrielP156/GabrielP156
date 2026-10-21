@@ -1,21 +1,58 @@
-# Hola, soy Darwin 👋
+<div align="center">
 
-**Desarrollador Full Stack** · Estudiante de Ingeniería en Desarrollo de Software (UTN) · Costa Rica
+<img src="https://capsule-render.vercel.app/api?type=waving&color=16233B&height=160&section=header&text=Darwin%20P%C3%A9rez&fontSize=42&fontColor=7FD1C7" width="100%" />
 
-Construyo APIs con Java y Spring Boot y interfaces con React. 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7FD1C7&center=true&vCenter=true&width=480&lines=Desarrollador+Full+Stack;Java+%26+Spring+Boot;React+%26+Tailwind+CSS;Estudiante+de+Ingenier%C3%ADa+en+Desarrollo+de+Software" alt="Presentación" />
 
-### Tecnologías
+<br>
 
-![Tecnologías](https://skillicons.dev/icons?i=java,spring,react,js,tailwind,html,css,postgres,mysql,docker,azure,git,github,postman)
+Estudiante de **Ingeniería en Desarrollo de Software (UTN)** · Costa Rica 🇨🇷
+Construyo APIs con Java y Spring Boot e interfaces con React.
+Pasantía en **AND Technology**. Busco mi primera oportunidad profesional.
+
+<a href="mailto:darwinuaim@gmail.com"><img src="https://img.shields.io/badge/Correo-darwinuaim%40gmail.com-1F9E8F?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+---
+
+### 🛠️ Tecnologías
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,js,tailwind,html,css,postgres,mysql,docker,azure,git,github,postman,vscode" />
 
 SQL Server · Azure DevOps · Azure Service Bus · Scrum
 
-### Proyectos destacados
+</div>
 
-- **[Microservicios de créditos](enlace)**: seis servicios con API Gateway, OAuth2/JWT y Azure Service Bus.
-- **[Sistema de reservas de laboratorios](enlace)**: API REST con Spring Boot, JWT y pruebas con JUnit y Mockito.
-- **[Zona de Ataque](enlace)**: sistema web de citas con React, Vite y Tailwind.
+---
 
-### Contacto
+### 📊 Estadísticas
 
-[LinkedIn](enlace) · darwinuaim@gmail.com
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=GabrielP156&show_icons=true&hide_border=true&bg_color=16233B&title_color=7FD1C7&text_color=E8EDF5&icon_color=1F9E8F" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielP156&layout=compact&hide_border=true&bg_color=16233B&title_color=7FD1C7&text_color=E8EDF5" />
+
+</div>
+
+---
+
+### 🚀 Proyectos
+
+<div align="center">
+
+<a href="https://github.com/GabrielP156/Proyecto-WEB"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielP156&repo=Proyecto-WEB&hide_border=true&bg_color=16233B&title_color=7FD1C7&text_color=E8EDF5&icon_color=1F9E8F" /></a>
+<a href="https://github.com/GabrielP156/MiniProyecto-AmbienteWebI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielP156&repo=MiniProyecto-AmbienteWebI&hide_border=true&bg_color=16233B&title_color=7FD1C7&text_color=E8EDF5&icon_color=1F9E8F" /></a>
+
+</div>
+
+- **Zona de Ataque**: sistema web de citas con React, Vite y Tailwind. [Ver demo](https://gabrielp156.github.io/Proyecto-WEB/)
+- **Proyecto Notas**: gestión de tareas y notas con HTML, CSS y JavaScript. [Ver demo](https://gabrielp156.github.io/MiniProyecto-AmbienteWebI/)
+- **Microservicios de créditos**: seis servicios con API Gateway, OAuth2/JWT y Azure Service Bus.
+- **Sistema de reservas de laboratorios**: API REST con Spring Boot, JWT y pruebas con JUnit y Mockito.
+
+<!-- Cuando subas los otros dos repos, pon su tarjeta así (cambia NOMBRE-DEL-REPO) y enlaza los puntos de arriba:
+<a href="https://github.com/GabrielP156/NOMBRE-DEL-REPO"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GabrielP156&repo=NOMBRE-DEL-REPO&hide_border=true&bg_color=16233B&title_color=7FD1C7&text_color=E8EDF5&icon_color=1F9E8F" /></a>
+-->
