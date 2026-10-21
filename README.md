@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=16233B&height=160&section=header&text=Darwin%20P%C3%A9rez&fontSize=42&fontColor=7FD1C7" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=16233B&height=160&section=header&text=Gabriel%20P%C3%A9rez&fontSize=42&fontColor=7FD1C7" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=7FD1C7&center=true&vCenter=true&width=480&lines=Desarrollador+Full+Stack;Java+%26+Spring+Boot;React+%26+Tailwind+CSS;Estudiante+de+Ingenier%C3%ADa+en+Desarrollo+de+Software" alt="Presentación" />
 
